@@ -20,6 +20,7 @@ Foram elaboradas soluções para 4 exercícios da plataforma [leetcode](https://
 ![Captura de tela de 2023-02-06 22-03-50](https://user-images.githubusercontent.com/54070461/217121912-a8bc1b24-80bc-44dc-8ea2-8586613417e1.png)
 
 ## Apresentação
+https://user-images.githubusercontent.com/54070461/217132376-11b85384-94ea-4c77-b042-c2e44c056d2f.mp4
 
 ## Instalação 
 **Linguagem**: Python<br>
